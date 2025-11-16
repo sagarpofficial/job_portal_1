@@ -4,4 +4,5 @@ Flask-Login>=0.6
 Flask-Bcrypt>=1.0
 Flask-Mail>=0.9.1
 python-dotenv>=1.0
+Flask-Migrate>=4.0
 gunicorn
